@@ -2,20 +2,20 @@
 
 ## run command: 
 
-###### python SQL_Jobs_Python.py <job_name> <start/status>
+#### python SQL_Jobs_Python.py <job_name> <start/status>
 
 
 ## example:
 
-###### python SQL_Jobs_Python.py test start
+#### python SQL_Jobs_Python.py test start
 
 
 ## expected outputs:
 
 #### in case start job:
 
-###### true: if job starts successfully
-###### false: otherwise 
+#### true: if job starts successfully
+#### false: otherwise 
 
 #### in case get status:
 #### 0: if all steps in the job fail
